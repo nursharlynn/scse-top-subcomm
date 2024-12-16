@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+TOP’24 Orientation Website
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The TOP’24 Orientation Website was developed to streamline and enhance the experience of students and group leaders during CCDS’s (previously SCSE) university orientation program. Built using React.js and Material UI, the project provides key functionalities for event management and administrative tasks. Originally developed as part of a team, this repository contains my specific contributions to the project.
 
-## Available Scripts
+### **My Contributions (in detail)**
+- **Dashboard**:
+    - Designed and implemented the dashboard as the central hub for users, providing easy access to booking and registration features
+- **Login and Registration**:
+    - Developed responsive login and registration interfaces for participants and group leaders excluding the NavBar and Footer components
+- **Facility Booking System**:
+    - Created a feature for group leaders to book facilities efficiently
+- **UI/UX:**
+    - Conceptualized and designed the user interfaces and experiences mentioned above using **Figma**, ensuring a cohesive and user-friendly design
 
-In the project directory, you can run:
+## **Setup Instructions**
+### **Prerequisites**
+Make sure you have the following installed on your system:
+- **Node.js** (v16 or later recommended)
+- **npm** (comes with Node.js)
 
-### `npm start`
+### **Steps to Get Started**
+1. **Clone the Repository**
+    Open your terminal, navigate to the desired folder, and run:
+    ```bash
+    git clone <repository_url>
+    ```
+2. **Navigate to the Project Directory**
+    Change into the directory where the repository was cloned:   
+    ```bash
+    cd <project_folder>
+    ```
+3. **Install Dependencies**
+    Download and install the required packages and libraries:
+    ```bash
+    npm install
+    ```
+4. **Start the Development Server**
+    Launch the app in development mode:
+    ```bash
+    npm start
+    ```
+5. **Open the App**
+    Open your browser and navigate to: [http://localhost:3000](http://localhost:3000/)
+    
+### **Notes**
+- The app will automatically reload as you make changes to the code.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### **Credits**
+This project was completed as part of a collaborative effort:
+- **Nur Sharlynn**: UI/UX Design, Login and Registration Pages, Home Page/Dashboard, Facility Booking System.
+- **Rest of Subcommittee**: The other UI/UX designs, and backend development
