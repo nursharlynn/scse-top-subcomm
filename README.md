@@ -49,4 +49,4 @@ Make sure you have the following installed on your system:
 ### **Credits**
 This project was completed as part of a collaborative effort:
 - **Nur Sharlynn**: UI/UX Design, Login and Registration Pages, Home Page/Dashboard, Facility Booking System.
-- **Rest of Subcommittee**: The other UI/UX designs, and backend development
+- **Rest of Subcommittee**: The other UI/UX designs and development, and backend development
